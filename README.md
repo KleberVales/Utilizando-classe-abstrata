@@ -15,4 +15,9 @@ Uma classe abstrata não pode ser instanciada diretamente, ou seja, você não p
 3. Depois de implementar, você pode criar uma instância de MyBook e definir o título de um livro.
 
 ## Exemplo de entrada e saída:
+### Entrada:
+A tale of two cities
+
+### Saída:
+The title is: A tale of two cities
 
